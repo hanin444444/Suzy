@@ -12,7 +12,7 @@ const client = new Client({
 });
 
 // ⚠️ ضعي التوكن هنا بين علامتي الاقتباس
-const TOKEN = "MTQxMjIxNzE3MjQ0NDMxNTcwOQ.G6FCb6.svikTSvSY2-P5lXqKU13HIU9sKzgcgRXVOxMR8"
+const TOKEN = "MTQxMjIxNzE3MjQ0NDMxNTcwOQ.Gvcu2E.-Drki-sUzbsA2Pl5Jpbtnii13OgZKb2Xp4GDUg"
 
 // روم أول
 const CHANNEL_ONE = "1411735840484360192";
